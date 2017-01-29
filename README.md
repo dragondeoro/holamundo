@@ -1,3 +1,3 @@
 # holamundo
-Probaditas de GIT
+Probaditas d GIT
 git config--global user.name "dragon"
